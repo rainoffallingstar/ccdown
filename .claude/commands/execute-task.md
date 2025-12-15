@@ -6,8 +6,8 @@
 
 ## Step 1: 上下文加载
 
-1.  执行 `todoread` 查看当前任务列表
-2.  选择优先级最高的 `pending` 任务
+1.  执行 `todoread` 查看当前任务列表，读取plan获取尚未完成的计划
+2.  选择优先级最高的 `pending` 任务，如没有任务，根据尚未完成的计划设计任务。
 3.  读取以下文件：
     -   `docs/active_context.md` - 系统现状
     -   `docs/architecture.md` - 设计规范
