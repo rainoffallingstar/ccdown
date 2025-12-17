@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # 代码审查 (Plan Mode)
 
 > **执行模式**: 请在 **Plan 模式** 下执行此审查，先分析再行动。

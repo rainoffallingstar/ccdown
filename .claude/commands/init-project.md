@@ -1,9 +1,3 @@
----
-editor_options:
-  markdown:
-    wrap: 72
----
-
 # 项目初始化 (Plan 模式专用)
 
 > **本命令仅生成规划，不执行任何文件操作**
